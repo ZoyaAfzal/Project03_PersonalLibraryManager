@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "title": "The Atomic Hbits",
+        "author": "2018",
+        "year": 2018,
+        "genre": "Self-Help",
+        "read": true,
+        "rating": 3
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C-Mrtin",
+        "year": 2008,
+        "genre": "Softwre Development",
+        "read": true,
+        "rating": 5
+    }
+]

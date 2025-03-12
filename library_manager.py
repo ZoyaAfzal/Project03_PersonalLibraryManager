@@ -118,8 +118,8 @@ def update_book():
 
 def menu():
     while True:
-        print(Fore.CYAN + "\nWelcome to your Personal Library Manager!" + Style.RESET_ALL)
-        print(Fore.YELLOW + "1. Add a book\n2. Remove a book\n3. Search for a book\n4. Display all books\n5. Display statistics\n6. Update a book\n7. Exit" + Style.RESET_ALL)
+        print(Fore.CYAN + "\n📚 Welcome to your Personal Library Manager!" + Style.RESET_ALL)
+        print(Fore.YELLOW + "📖 1. Add a book\n🗑️  2. Remove a book\n🔍 3. Search for a book\n📚 4. Display all books\n📊 5. Display statistics\n✏️  6. Update a book\n❌ 7. Exit" + Style.RESET_ALL)
         
         choice = input(Fore.GREEN + "Enter your choice: " + Style.RESET_ALL)
         
